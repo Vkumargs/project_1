@@ -8,4 +8,6 @@ void print_mygit(){
 
     cout << "Sending the new Message\n";
 
+    cout << "I received the message and experiencing the work from diff users - it worked\n" << endl
+
 }
