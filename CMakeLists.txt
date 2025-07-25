@@ -11,6 +11,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(project_one_app
     main.cpp
     aboutme.cpp
+    Gitfiletrial_1.cpp
 )
 
 # Tell the compiler that our target needs to look for headers
