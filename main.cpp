@@ -5,6 +5,7 @@ using namespace std;
 int main(){
 
     print_about_me();
+    print_mygit();
     cout << (int)(Trial_t1 + Trial_t2) << endl;
 
     int first_t = 10;
