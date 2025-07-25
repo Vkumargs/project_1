@@ -8,6 +8,9 @@
 
 1. Was excited to use the github.
 2. Linked the local repository with the remote repositiory and pushed the code to the main remote repository
+3. Created a file in github codespace and used that space as different user space, this helped me in experiencing the real use of git.
+4. pushed to remote, pulled to local and again pushed to remote.
+5. Overall nice/Fantastic experience.
 
 ::::::::::::::::::::  DAY3 of Random coding  :::::::::::::
 
