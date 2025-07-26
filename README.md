@@ -14,3 +14,7 @@
 
 ::::::::::::::::::::  DAY3 of Random coding  :::::::::::::
 
+1. Was tired, didn't work or practice
+
+::::::::::::::::::::  DAY4 of Random coding  :::::::::::::
+
