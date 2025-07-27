@@ -18,3 +18,7 @@
 
 ::::::::::::::::::::  DAY4 of Random coding  :::::::::::::
 
+1. Was tired guess because of badminton, didn't work or practice
+
+::::::::::::::::::::  DAY5 of Random coding  :::::::::::::
+
