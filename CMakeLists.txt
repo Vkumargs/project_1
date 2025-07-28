@@ -7,7 +7,7 @@ project(ProjectOne CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Add the executable target and specify its source files
+# Add the executable target and list all of its source (.cpp) files.
 add_executable(project_one_app
     main.cpp
     aboutme.cpp
